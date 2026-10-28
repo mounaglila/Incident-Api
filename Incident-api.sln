@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36915.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incidentapi-mounaa", "Incidentapi-mounaa\Incidentapi-mounaa.csproj", "{C6E23A21-66B9-45F1-AA99-BA6399630F9F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incident-api", "Incident-api\Incident-api.csproj", "{C6E23A21-66B9-45F1-AA99-BA6399630F9F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTests", "AppTests\AppTests.csproj", "{C1A9B499-1480-44DD-9D6C-5CBA7D203753}"
 EndProject

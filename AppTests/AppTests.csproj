@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Incidentapi-mounaa\Incidentapi-mounaa.csproj" />
+    <ProjectReference Include="..\Incident-api\Incident-api.csproj" />
   </ItemGroup>
 
   <ItemGroup>
