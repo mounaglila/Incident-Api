@@ -79,7 +79,6 @@ The API reads its connection string from the key `IncidentsConnection`. Set it i
 }
 ```
 
-Never commit real passwords.
 
 ### Run locally
 ```bash
