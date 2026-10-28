@@ -1,4 +1,4 @@
-namespace Incidentapi_mounaa
+namespace Incident-api
 {
     public class WeatherForecast
     {

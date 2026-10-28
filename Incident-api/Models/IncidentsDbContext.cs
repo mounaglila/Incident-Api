@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace Incidentapi_mounaa.Models
+namespace Incident-api.Models
 {
     public class IncidentsDbContext : DbContext
     {

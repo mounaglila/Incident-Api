@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Data;
-namespace Incidentapi_mounaa.Models
+namespace Incident-api.Models
 
 {
     public class Incident

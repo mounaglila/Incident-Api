@@ -1,4 +1,4 @@
-using Incidentapi_mounaa.Models;
+using Incident-api.Models;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
