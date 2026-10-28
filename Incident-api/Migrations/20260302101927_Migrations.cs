@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace Incidentapi_mounaa.Migrations
+namespace Incident_api.Migrations
 {
     /// <inheritdoc />
     public partial class Migrations : Migration

@@ -1,4 +1,4 @@
-﻿namespace Incidentapi_mounaa.Classes
+﻿namespace Incident_api.Classes
 {
     public class Mathematics
     {

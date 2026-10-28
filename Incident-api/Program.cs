@@ -1,4 +1,4 @@
-using Incident-api.Models;
+﻿using Incident_api.Models;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

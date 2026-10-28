@@ -1,8 +1,8 @@
-﻿using Incidentapi_mounaa.Models;
+﻿using Incident_api.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Incidentapi_mounaa.Controllers
+namespace Incident_api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

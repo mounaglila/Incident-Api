@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Incidentapi_mounaa.Models;
+using Incident_api.Models;
 
-namespace Incidentapi_mounaa.Controllers
+namespace Incident_api.Controllers
 {
     public class IncidentsDbController : Controller
     {

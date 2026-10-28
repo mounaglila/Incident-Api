@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace Incident-api.Models
+namespace Incident_api.Models
 {
     public class IncidentsDbContext : DbContext
     {

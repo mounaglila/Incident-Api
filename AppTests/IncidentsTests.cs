@@ -1,5 +1,5 @@
-﻿using Incidentapi_mounaa.Controllers;
-using Incidentapi_mounaa.Models;
+﻿using Incident_api.Controllers;
+using Incident_api.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
