@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Data;
-namespace Incident_api.Models
+namespace IncidentApi.Models
 
 {
     public class Incident
