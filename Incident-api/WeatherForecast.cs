@@ -1,4 +1,4 @@
-﻿namespace Incident_api
+﻿namespace IncidentApi
 {
     public class WeatherForecast
     {
