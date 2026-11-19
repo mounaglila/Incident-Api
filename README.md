@@ -118,6 +118,3 @@ git push ─┬─> unit-tests ───────┐
 ```
 
 Docker Hub credentials are stored as GitHub Actions secrets, never in the code.
-
-## Author
-Mouna Glila, Master's student in Software Engineering at ISIMM (Tunisia)
