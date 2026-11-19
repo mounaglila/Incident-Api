@@ -4,7 +4,7 @@
 This project is a RESTful API for managing incidents. It allows users to create, track, update and filter incidents by status and severity, and stores them in a SQL Server database.
 
 It was developed for a Cloud & DevOps course and covers the full DevOps loop: automated testing, containerization with Docker, and a CI/CD pipeline that builds, tests and publishes the Docker image.
-
+![Swagger UI](docs/swagger-ui.png)
 ## Features
 - Create, view, update and delete incidents
 - Update the status of an incident
